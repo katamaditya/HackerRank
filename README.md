@@ -1,2 +1,2 @@
 # HackerRank
-Collection HackerRank challenges in Java
+Collection of HackerRank challenges in Java
